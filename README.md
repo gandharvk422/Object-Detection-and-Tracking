@@ -62,6 +62,3 @@ Include demo images or videos showing detection and tracking results.
 
 ## Contribute
 Contributions are welcome!
-
-## License
-Specify your project's license here (e.g., MIT License).
